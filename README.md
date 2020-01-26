@@ -5,3 +5,7 @@ This project requires a nucleo-STM32f411RE nucleo board and a IDB05A1 bluetooth 
 The device url is: https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-nucleo-boards/nucleo-f411re.html
 
 The Bluetooth expansion board BLE 4.1 url is: https://www.st.com/content/st_com/en/products/ecosystems/stm32-open-development-environment/stm32-nucleo-expansion-boards/stm32-ode-connect-hw/x-nucleo-idb05a1.html 
+
+The STM32Cube used for this project linnk is: https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-configurators-and-code-generators/stm32cubemx.html
+
+The link for Attolic the IDE I used (Version 9.3) is: https://atollic.com/truestudio/
