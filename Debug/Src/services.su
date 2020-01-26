@@ -1,0 +1,9 @@
+services.c:69:12:addServices	80	static
+services.c:100:6:updateBpmData	24	static
+services.c:106:6:updateWeightData	24	static
+services.c:112:6:updateHumData	24	static
+services.c:118:6:updateTempData	24	static
+services.c:123:6:GAP_ConnectionComplete_CB	0	static
+services.c:129:6:GAP_DisconectionComplete_CB	0	static
+services.c:141:6:Read_Request_CB	8	static
+services.c:172:6:user_notify	0	static
